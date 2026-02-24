@@ -10,5 +10,10 @@
   "action": {
     "default_popup": "popup.html",
     "default_title": "Extrair Variáveis"
-  }
+  },
+  "host_permissions": [
+    "https://dev.azure.com/*",
+    "https://*.visualstudio.com/*",
+    "https://portal.azure.com/*"
+  ]
 }
