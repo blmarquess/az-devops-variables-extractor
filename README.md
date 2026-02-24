@@ -1,7 +1,3 @@
-Aqui está um modelo de **README.md** caprichado, utilizando emojis, formatação clara e seções bem definidas para você colocar na pasta do seu projeto ou subir no GitHub.
-
----
-
 # 🚀 Azure DevOps Variable Extractor
 
 Uma extensão leve para Google Chrome (Manifest V3) que permite extrair rapidamente variáveis das tabelas do **Azure DevOps** (Library Groups ou Pipeline Variables) e copiá-las para a área de transferência em formatos prontos para uso.
