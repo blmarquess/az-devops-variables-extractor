@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Extrator de Variáveis Azure DevOps - Library",
+  "version": "1.0",
+  "description": "Extrai variáveis de uma tabela do Azure DevOps e copia como JSON.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "Extrair Variáveis"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
